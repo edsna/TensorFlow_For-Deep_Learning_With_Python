@@ -4,4 +4,5 @@ This folder contains practice problems and exercises I resolved as part of my co
 
 Please, feel free to reach out for any sort of clarification regarding the content that you may need.
 
-Edson Zandamela"# TensorFlow_For-Deep_Learning_With_Python" 
+"# TensorFlow_For-Deep_Learning_With_Python" 
+Edson Zandamela
